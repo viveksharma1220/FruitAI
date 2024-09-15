@@ -1,0 +1,18 @@
+
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+/* Example in App.css */
+@media (max-width: 768px) {
+  .home-container {
+    flex-direction: column;
+  }
+  .service-card {
+    width: 100%;
+    margin: 10px 0;
+  }
+}
+

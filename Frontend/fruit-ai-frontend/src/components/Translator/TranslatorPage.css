@@ -1,0 +1,25 @@
+/* TranslatorPage.css */
+.translator-container {
+    text-align: center;
+    padding: 2rem;
+  }
+  
+  .translator-container input {
+    padding: 0.8rem;
+    width: 60%;
+    margin-bottom: 1rem;
+  }
+  
+  .translator-container button {
+    padding: 0.8rem;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  
+  .translator-container p {
+    margin-top: 1rem;
+    font-size: 1.2rem;
+  }
+  
